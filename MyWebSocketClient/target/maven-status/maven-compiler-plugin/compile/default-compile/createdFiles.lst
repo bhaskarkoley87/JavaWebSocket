@@ -1,0 +1,4 @@
+com\bhk\client\TestChatClientApp$1.class
+com\bhk\client\WebsocketClientEndpoint.class
+com\bhk\client\WebsocketClientEndpoint$MessageHandler.class
+com\bhk\client\TestChatClientApp.class
